@@ -1,6 +1,8 @@
 <div id="top"></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Omar Sherif Ali </h1>
+<h4 align="center">Supervised by : <a href='https://github.com/mervatkheir'>Professor Mervat Mustafa Fahmy Abuelkheir</a></h1>
+
 <h3 align="center">Computer Science & Engineering</h3>
 <h6 align="center">"Language is the bridge that connects minds, and NLP is the compass guiding us to understand and unlock its infinite potential."</h6>
 
