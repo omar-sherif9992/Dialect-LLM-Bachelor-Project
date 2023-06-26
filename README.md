@@ -25,11 +25,13 @@
   <h3 align="center">Egyptian Tweet Sentiment Analysis , Forecasting and Topic Modeling</h3>
 
   <p align="center">
-The aim of the Bachelor project is to innovate a new way for Arabic (Egyptian-Dialect) Sentiment Analysis , Forecasting and Topic Modeling using Machine Learning , Deep Learning and Transformers!
+The aim of the Bachelor project is to innovate a new way for Arabic (Egyptian-Dialect) Sentiment Analysis, Forecasting, and Topic Modeling using Machine Learning, Deep Learning, and Transformers!
     <br />
     <br />
 	  📄<a href="https://github.com/omar-sherif9992/Bachelor-Thesis/blob/master/Bachelor_Thesis.pdf" download target="_blank"><strong>View the Thesis »</strong></a>
     <br />
+	  
+	      <a href="https://docs.google.com/presentation/d/1ocnuHE1hyZdBHtY9c_Gr4bYPGiyaEVlAmYpUGlL795I/edit?usp=sharing">Presentation</a>
     <a href="mailto:osa.helpme@gmail.com?subject=UnExpected%20Error%20Occured&body=Sorry%20for%20the%20inconvenience%2C%20Please%20describe%20Your%20situation%20and%20emphasis%20the%20Endpoint%20!%0A">Report Bug</a>
    	      ·
     <a href="mailto:osa.helpme@gmail.com?subject=I%20want%20to%20be%20a%20Contributor%20to%20Bachelor Thesis&body=Dear%20Omar%20Sherif">Be a Contributer</a>
