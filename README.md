@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Omar Sherif Ali </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Eng. Omar Sherif Ali </h1>
 <h4 align="center">Supervised by : <a href='https://github.com/mervatkheir'>Professor Mervat Mustafa Fahmy Abuelkheir</a></h1>
 
 <h3 align="center">Computer Science & Engineering</h3>
@@ -21,6 +21,13 @@
 <img src="https://cdn-icons-png.flaticon.com/512/648/648953.png?w=826&t=st=1684776952~exp=1684777552~hmac=336fe32c54d4f4c6feb727076f57d09aa9aab680c797e7ef2fc47064c974c411" alt="Logo" width="80" height="80">
 <img src="https://cdn-icons-png.flaticon.com/512/865/865018.png?w=826&t=st=1684777116~exp=1684777716~hmac=972db3c9570b0f3d5e61e2282918f86f48a73a76399c1c7dc5e7946809e734e0" alt="Logo" width="80" height="80">
 <img src="https://cdn-icons-png.flaticon.com/512/538/538759.png?w=826&t=st=1684777213~exp=1684777813~hmac=b23ef3f3653c2a954bde5410ff1d205739ae96c990ff0b0f91f6c56f15d35201" alt="Logo" width="80" height="80">
+<br/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732110.png?w=826&t=st=1684776825~exp=1684777425~hmac=d862fad36432a9768c4e6f3e00c6eb0b09c6cd140380a321effe4f084064ab95" alt="Logo" width="60" height="60">
+<br/>
+<img src="https://seeklogo.com/images/D/dell-logo-25B0448A09-seeklogo.com.png" alt="Logo" width="80" height="80">
+<img src="https://itida.gov.eg/English/MediaCenter/PhotoGallery/ITIDA%20Logo/Twitter%20400%20x%20400%20for%20profile-01.jpg" alt="Logo" width="80" height="80">
+
+
 
   <h3 align="center">Egyptian Tweet Sentiment Analysis , Forecasting and Topic Modeling</h3>
 
